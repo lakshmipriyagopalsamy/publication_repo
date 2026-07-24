@@ -2,7 +2,7 @@
 
 Hi, I'm Priya — an engineering leader and IEEE Senior Member working at the intersection of AI systems engineering, platform architecture, and engineering management. This repository is the home for my white papers, peer-reviewed research, and technical/practitioner writing: drafts, published versions, abstracts, and links to where each piece lives publicly.
 
-Ms. Gopalsamy is an individual of extraordinary ability in enterprise platform engineering and technology leadership — a highly specialized field requiring mastery of distributed systems architecture, large-scale data infrastructure, and AI-driven operations, as well as the organizational expertise to lead and scale high-performing engineering teams in Fortune 500 enterprise environments.
+My field of exterise in distributed systems architecture, large-scale data infrastructure, and AI-driven operations, lead and scale high-performing engineering teams in Fortune 500 enterprise environments.
 
 I write about applied AI, agentic systems, AI governance and strategy, and software engineering practice — usually moving between the academic and practitioner worlds rather than staying in one lane. A single idea often shows up here in more than one form: a research paper, a conference talk, and a shorter practitioner article.
 
